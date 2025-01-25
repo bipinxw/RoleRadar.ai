@@ -4,5 +4,5 @@ transformers
 pdfplumber
 torch
 requests
-dateutil
+python-dateutil
 serpapi
