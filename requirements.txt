@@ -6,3 +6,4 @@ torch
 requests
 python-dateutil
 serpapi
+gunicorn
